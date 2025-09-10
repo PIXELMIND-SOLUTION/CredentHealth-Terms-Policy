@@ -71,7 +71,7 @@ const TermsandConditions = () => {
                     <div className="mb-4">
                         <h4>8. Limitation of Liability</h4>
                         <p>
-                            CredentHealth shall not be liable for any indirect, incidental, or consequential damages arising from use of the App. The App is provided "as is" without warranties of any kind.
+                            Credent Health Medical shall not be liable for any indirect, incidental, or consequential damages arising from use of the App. The App is provided "as is" without warranties of any kind.
                         </p>
                     </div>
 
