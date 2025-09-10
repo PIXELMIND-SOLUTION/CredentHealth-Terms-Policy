@@ -5,7 +5,7 @@ const TermsandConditions = () => {
         <div className="container py-5">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-11 col-12">
-                    <h1 className="mb-4 text-center">Terms and Conditions - CredentHealth</h1>
+                    <h1 className="mb-4 text-center">Terms and Conditions - Credent Health Medical</h1>
                     <p>
                         These Terms and Conditions ("Terms") govern your use of the{" "}
                         <strong>CredentHealth</strong> application ("App"). By accessing or using the App, you agree to comply with
